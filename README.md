@@ -1,1 +1,2 @@
-# web-scraping
+## web-scraping 
+- Hepsiburada price value scrapping
